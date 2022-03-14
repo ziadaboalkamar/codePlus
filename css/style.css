@@ -978,6 +978,8 @@ padding: 40px 0 30px;
     display: block;
     transition: all 0.3s ease;
     -webkit-transition: all 0.3s ease;
+    height: 300px;
+    object-fit: fill;
 } 
 .blog .blog-item-inner:hover .blog-img img{
     transform: scale(1.1);
