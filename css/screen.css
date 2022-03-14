@@ -12,14 +12,14 @@
         left: -250px;
     }
     .aside.open{
-        left: 0;
+        left: unset;
     }
     .section{
         left: 0;
     }
-    .section.open{
+    /* .section.open{
 left: 250px;
-    }
+    } */
     .about .about-contant .personal-info .info-item p span{
         display: block;
         margin-left: 0;
